@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, I'm Naitik Sutariya (aka 24Chessman)
 
-<!--
-**24Chessman/24Chessman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc IT Student at DAIICT  
+🤖 AI/ML & Python Developer | HealthTech Innovator  
+💼 Current Role: AI Intern at Cybas Commercial Pvt Ltd
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Areas of Interest:
+- Machine Learning & Deep Learning
+- NLP & Generative AI (Chatbots, LLMs, Prompt Engineering)
+- Full Stack Web Development (Flask, HTML/CSS)
+- Data Visualization & AI for Healthcare
+
+---
+
+### 🔧 Tech Stack
+- **Languages:** Python, C, C#, C++, JavaScript, Java, Kotlin, PHP
+- **AI/ML:** scikit-learn, TensorFlow, Pandas, NumPy  
+- **Web:** Flask, HTML/CSS, Bootstrap, Django, FastAPI
+- **Tools:** Git & GitHub, VS Code, Google Colab  
+
+---
+
+### 🚀 Featured Projects
+- 🔬 [Niramaya](https://github.com/24Chessman/Niramaya) – AI-powered health symptom checker using ML & Flask  
+
+---
+
+### 📫 Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/24-naitik-sutariya/)
+- 🧠 [HackerRank](https://www.hackerrank.com/profile/24Chessman)
+- 📧 Email: sutariyanaitik08@gmail.com
+
+---
+
+> 💡 “Always building. Always learning.”
