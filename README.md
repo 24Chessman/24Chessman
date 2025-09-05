@@ -2,7 +2,7 @@
 
 🎓 MSc IT Student at DAU (aka DAIICT)  
 🤖 AI/ML & Python Developer | HealthTech Innovator  
-💼 Current Role: AI Intern at Cybas Commercial Pvt Ltd
+<>💼 Current Role: AI Intern at Cybas Commercial Pvt Ltd
 
 ---
 
