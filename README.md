@@ -16,10 +16,11 @@
 
 ### 🔧 Tech Stack
 - **Languages:** Python, C, C#, C++, JavaScript, Java, Kotlin, PHP
+- **Framework:** Django, Flask, FastAPI
 - **AI/ML:** scikit-learn, TensorFlow, Pandas, NumPy  
 - **Web:** Flask, HTML/CSS, Bootstrap, Django, FastAPI
-- **Tools:** Git & GitHub, VS Code, Google Colab  
-
+- **Tools:** Git & GitHub, VS Code, Google Colab
+  
 ---
 
 ### 🚀 Featured Projects
@@ -30,6 +31,7 @@
 ### 📫 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/24-naitik-sutariya/)
 - 🧠 [HackerRank](https://www.hackerrank.com/profile/24Chessman)
+- 🔗 [Leetcode](https://leetcode.com/u/24Chessman/)
 - 📧 Email: sutariyanaitik08@gmail.com
 
 ---
