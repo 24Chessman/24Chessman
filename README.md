@@ -24,7 +24,9 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔬 [Niramaya](https://github.com/24Chessman/Niramaya) – AI-powered health symptom checker using ML & Flask  
+- 🔬 [Niramaya](https://github.com/24Chessman/Niramaya) – AI-powered health symptom checker using ML & Flask
+- [CTAS](https://github.com/24Chessman/ctasAI) - AI-powered coastal threat alert system using ML
+- [SnakeX](https://github.com/24Chessman/SnakeX.git) - Snake board game using C++
 
 ---
 
