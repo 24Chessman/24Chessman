@@ -34,6 +34,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/24-naitik-sutariya/)
 - 🧠 [HackerRank](https://www.hackerrank.com/profile/24Chessman)
 - 🔗 [Leetcode](https://leetcode.com/u/24Chessman/)
+- 🔗 [Kaggle](https://www.kaggle.com/sutariyanaitik24)
 - 📧 Email: sutariyanaitik08@gmail.com
 
 ---
